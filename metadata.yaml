@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '40527'
     url: http://www.gutenberg.org/2009/agents/40527
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/40287#The-Treatment-of-Hay-Feverof-anaphylaxis
 gutenberg_issued: '2012-07-20'
 gutenberg_type: Text
 identifiers:
